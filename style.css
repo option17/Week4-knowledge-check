@@ -16,10 +16,26 @@
 #end{
     color: crimson;
     margin: 15px 30px 15px;
+    border: 200cm; 
     padding: 10px 20px 30px;
     background-color: aqua;
 }
-div{
+#wow{
     border: 20px;
-    margin: 30px;
+    margin: 30px
+}
+#ape{
+    background-color: gray;
+    width: 200%;
+    height: 200%;    
+}
+#bee{
+    background-color: mediumspringgreen;
+    width: 24vw;
+    height: 24vw;
+}
+#cat{
+    background-color: navy;
+    width: 30vh;
+    height: 30vh;
 }
