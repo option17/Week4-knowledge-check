@@ -1,7 +1,25 @@
 #one {
-    color: azure;
+    color: blue;
+    margin: 10px 20px 10px;
+    border:30px ;
+    padding: 30px 40px 50px;
+    background-color: brown;
 }
 
 #two {
     color: blueviolet;
+    margin: 20px 10px 20px;
+    padding: 2opx 20px 30px;
+    background-color: chocolate;
+   
+}
+#end{
+    color: crimson;
+    margin: 15px 30px 15px;
+    padding: 10px 20px 30px;
+    background-color: aqua;
+}
+div{
+    border: 20px;
+    margin: 30px;
 }
